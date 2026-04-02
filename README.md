@@ -1,4 +1,4 @@
-# US-Flag-Pygame
+# US-Flag-Turtle Graphics
 #programid: Us falg creation
 #author: Tahamidul Hoque
 #purpose: TO be able to draw the us flag using turtle drawing
